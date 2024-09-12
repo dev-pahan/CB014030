@@ -27,7 +27,7 @@
     position: relative;
     height: 835px;
     width: auto;
-    background-image: url('..images/3.png');
+    background-image: url('../images/3.png');
     background-position: center;
     background-repeat: no-repeat; 
     display: flex;
